@@ -6,6 +6,3 @@ ALF Stack: A privacy-focused approach to software
 ## Linux
 
 ## Firefox
-
-
-ALF
